@@ -1,0 +1,7 @@
+common:
+  url:
+    web: https://phattharalada.github.io/TravelProjectGroup/index.html
+  browser:
+    webChrome: gc
+  Click:
+#    locator: https://phattharalada.github.io/TravelProjectGroup/NorthRegion.html
