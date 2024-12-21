@@ -1,0 +1,5 @@
+common:
+    url: 
+        google: https://reg.pim.ac.th/registrar/login.asp?f_uid=sryhdgh&msg=%A1%C3%D8%B3%D2%BB%E9%CD%B9%AA%D7%E8%CD%BC%D9%E9%E3%AA%E9%A7%D2%B9+%28Username%29+%E1%C5%D0%C3%CB%D1%CA%BC%E8%D2%B9+%28Password%29+%E3%CB%E9%B6%D9%A1%B5%E9%CD%A7%CB%C3%D7%CD%3Cbr%3E%A1%C3%D8%B3%D2%B5%D4%B4%B5%E8%CD+02+071+1500+%A1%B4+1+%E1%A8%E9%A7%BB%D1%AD%CB%D2%A1%D2%C3%E3%AA%E9%A7%D2%B9%A4%CD%C1%BE%D4%C7%E0%B5%CD%C3%EC%E1%C5%D0%E2%B9%EA%B5%BA%D8%EA%A4%3Cbr%3E%B5%E8%CD%B4%E9%C7%C2+%A1%B4+4+%E1%A8%E9%A7%BB%D1%AD%CB%D2%C3%D0%BA%BA%CD%D7%E8%B9%E6+%E0%BE%D7%E8%CD%A2%CD+Reset+Password   
+    browser: 
+        googlechrome: gc
