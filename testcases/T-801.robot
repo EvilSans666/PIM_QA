@@ -2,9 +2,9 @@
 Library     SeleniumLibrary
 
 ***Test Cases***
-T-800 Open website
-    Open website url=https://www.google.co.uk/ brownser=gc
-    
+T-801 Open website
+    Open Browser        url=https://www.google.co.uk/       gc
+
 ***Keywords***
 
 ***Variables***
