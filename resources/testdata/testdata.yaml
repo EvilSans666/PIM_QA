@@ -1,7 +1,7 @@
 common:
-  url: 
-    google: https://www.google.co.uk/
+  url:
+    minecraft: https://www.minecraft-crafting.net/
     facebook: https://www.facebook.com
   browser: 
-    googlechrome: gc
+    googlechrome: gc  
     firefox: ff
