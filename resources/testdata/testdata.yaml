@@ -1,0 +1,9 @@
+common:
+ url:
+  google: https://www.google.co.uk/
+  facebook: https://www.facebook.com
+  fandom: https://www.fandom.com/topics/games
+ browser:
+  googleChrome: gc
+  firefox: ff
+    
