@@ -6,7 +6,8 @@ T-801 Open website
     [Tags]      test
     common.Open website with specific option        ${common['url']['fandom']}  
     # SeleniumLibrary.Element should be visible       xpath=//img[@alt="fandom"]
-    SeleniumLibrary.Click Element        ${locator_home_page.btn_reg}
+    Click Element        ${locator_home_page.btn_reg}
+    input Username       ${USERNAME} testuser
     SeleniumLibrary.close Browser
 
 
